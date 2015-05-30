@@ -1,0 +1,22 @@
+{
+  "name": "redis-sandbox",
+  "version": "0.0.0",
+  "description": "Sandbox for redis via ioredis",
+  "main": "index.js",
+  "dependencies": {
+    "ioredis": "~1.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joerx/redis-sandbox.git"
+  },
+  "author": "Joerg Henning <henning.joerg@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joerx/redis-sandbox/issues"
+  }
+}
